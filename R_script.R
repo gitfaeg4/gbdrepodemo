@@ -3,5 +3,5 @@
 print('R script')
 
 
-print('Commit local finalement non mergé mais mergé a')
+print('Comment ça va ?')
 
